@@ -11,7 +11,7 @@
 ## 🚀 Skills
 
 - **Languages:** Python, C/C++, Basic HTML/CSS  
-- **Frameworks & Tools:** Arduino IDE, OpenCV, Pandas  
+- **Frameworks & Tools:** Arduino IDE, OpenCV, Pandas, Numpy  
 - **Platforms:** Arduino, NodeMCU, Google Colab, GitHub  
 - **Soft Skills:** Problem-solving, Logical Thinking, Self-learning, Consistency
 
